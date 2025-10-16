@@ -1,0 +1,17 @@
+
+s	java:S116"RRename this field "tamaÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûô‚‡ùÿÿÿÿ8¤ÖÛ·œ3
+£
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ8¨ÖÛ·œ3
+
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8•éÛ·œ3
+C
+java:S1659	"&Declare "yJugador" on a separate line.(§ªÆØ8ªÖÛ·œ3
+H
+java:S1659
+"&Declare "yEnemigo" on a separate line.(ã¬Íšüÿÿÿÿ8ªÖÛ·œ3
+B
+java:S1659"%Declare "yObjeto" on a separate line.(ÿ§ª’8ªÖÛ·œ3
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(³ıŸê8ÄÖÛ·œ3
+k
+java:S3252V"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(º“¬üÿÿÿÿ8•éÛ·œ3
