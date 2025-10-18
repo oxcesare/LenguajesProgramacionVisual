@@ -20,7 +20,7 @@ public class JuegoCaceriaManzanas extends JFrame implements KeyListener, ActionL
     private Timer gameLoop;
 
     public JuegoCaceriaManzanas() {
-        super("Cacería de Manzanas 🍎 (Atributos y Métodos)");
+        super("Cacería de Manzanas (Atributos y Métodos)");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 500);
 

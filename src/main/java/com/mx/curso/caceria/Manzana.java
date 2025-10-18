@@ -14,7 +14,7 @@ public class Manzana extends JLabel {
 
     public Manzana() {
         // Configuración visual
-        setText("🍎");
+        setText("Manzana");
         setFont(getFont().deriveFont(25f));
         setSize(TAMANO, TAMANO);
         setHorizontalAlignment(CENTER);
@@ -26,6 +26,7 @@ public class Manzana extends JLabel {
      */
     public void reubicar(JPanel panel) {
         Random rand = new Random();
+
         int maxX = panel.getWidth() - TAMANO;
         int maxY = panel.getHeight() - TAMANO;
 
